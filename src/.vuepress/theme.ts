@@ -14,7 +14,7 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "https://gitee.com/guidebook/wiki",
+  repo: "https://github.com/waystowork/waystowork.github.io",
 
   docsDir: "src",
 
