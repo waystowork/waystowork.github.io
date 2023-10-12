@@ -145,6 +145,8 @@ export default sidebar({
 	
   ],
   "/rsshub/":"structure",
+  "/sfjs/":"structure",
+  "/xzzfhg/":"structure",
   
     
 });
