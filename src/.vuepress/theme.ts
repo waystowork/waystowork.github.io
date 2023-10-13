@@ -10,7 +10,7 @@ export default hopeTheme({
     url: "https://nav.guidebook.top",
   },
 
-  iconAssets: "//at.alicdn.com/t/c/font_4280225_tn9kddlhp.css",
+  iconAssets: "//at.alicdn.com/t/c/font_4280225_uiodme5zus.css",
 
   logo: "/logo.svg",
 
