@@ -28,22 +28,22 @@ highlights:
       - title: RSSHub订阅源
         icon: iconfont icon-rss
         details: 建立自己的信息源
-        link: https://wiki.guidebook.top/rsshub/
+        link: ./rsshub/
 
       - title: 法律法规规章数据库
         icon: iconfont icon-a-007_falvfawu
         details: 行政执法工作助手
-        link: https://wiki.guidebook.top/laws/
+        link: ./laws/
 
       - title: 司法解释
         icon: iconfont icon-hangzhengbiaozhunyongzhangshenpiliucheng
         details: 司法解释数据库
-        link: https://wiki.guidebook.top/sfjs/
+        link: ./sfjs/
 
       - title: 行政执法合规
         icon: iconfont icon-hangzhengbiaozhunyongzhangshenpiliucheng
         details: 行政执法合规一本通
-        link: https://wiki.guidebook.top/xzzfhg
+        link: ./xzzfhg
 
 
 
