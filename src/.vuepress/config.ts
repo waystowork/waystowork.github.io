@@ -14,7 +14,7 @@ export default defineUserConfig({
   plugins: [
     docsearchPlugin({
       appId: "9RG6PS53WQ",
-      apiKey: "39b3378421710afdc1ec32fdd2da0c8d",
+      apiKey: "ccc6fad1a880e4255c2cbf8c32b0f7e9",
       indexName: "waystoworkio",
     }),
   ],
