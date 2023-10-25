@@ -3,8 +3,8 @@ home: true
 icon: home
 title: 主页
 heroImage: /logo.svg
-bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
+bgImage: https://static.699pic.com/images/threed/banner.jpg
+bgImageDark: https://static.699pic.com/images/threed/banner.jpg
 bgImageStyle:
   background-attachment: fixed
 heroText: 数字生活指南知识库
@@ -18,9 +18,9 @@ actions:
     link: https://nav.guidebook.top/
 
 highlights:
-  - header: 数字生活指南分支
-    bgImage: https://theme-hope-assets.vuejs.press/bg/2-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/2-dark.svg
+  - header: 让工作更高效，让生活更有序，让学习更便捷。
+    bgImage: https://static.699pic.com/images/threed/banner.jpg
+    bgImageDark: https://static.699pic.com/images/threed/banner.jpg
     bgImageStyle:
       background-repeat: repeat
       background-size: initial
