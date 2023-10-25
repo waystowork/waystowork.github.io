@@ -4,7 +4,35 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   base: "/",
-
+head: [
+    // 添加百度统计
+    [
+      "script",
+      {},
+      `
+      var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?4195ec3871b3ca715e1edea49ea0685f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+        `
+    ],
+	[
+      "script",
+      {},
+      `
+      var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?3a40a37dc0b02aba707a70320b520b52";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+        `
+    ],
+  ],
   lang: "zh-CN",
   title: "数字生活指南知识库",
   description: "数字生活指南知识库Guidebook.top",
