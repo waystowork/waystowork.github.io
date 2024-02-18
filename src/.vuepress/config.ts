@@ -38,7 +38,7 @@ head: [
   lang: "zh-CN",
   title: "数字生活指南知识库",
   description: "数字生活指南知识库Guidebook.top",
-
+  bundler: viteBundler(),
   theme,
 
   plugins: [
