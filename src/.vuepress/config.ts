@@ -1,5 +1,5 @@
 import { docsearchPlugin } from "@vuepress/plugin-docsearch";
-import { defineUserConfig } from "vuepress/cli";
+import { defineUserConfig } from "vuepress/client";
 import theme from "./theme.js";
 
 export default defineUserConfig({
