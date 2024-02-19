@@ -43,7 +43,7 @@ highlights:
       - title: 行政执法合规
         icon: iconfont icon-hangzhengbiaozhunyongzhangshenpiliucheng
         details: 行政执法合规一本通
-        link: ./xzzfhg
+        link: ./xzzfhg/
 
 
 
